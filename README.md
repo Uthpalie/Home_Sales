@@ -1,8 +1,8 @@
-### Home Sales Analysis Project
-## Overview
+## Home Sales Analysis Project
+### Overview
 This README outlines the steps that were completed in the Home Sales Analysis project using PySpark. The tasks involved renaming files, importing necessary functions, working with data in Spark DataFrames, and performing various analyses.
 
-## Completed Tasks
+### Completed Tasks
 1. Renamed the File
 The Home_Sales_starter_code.ipynb file was renamed to Home_Sales.ipynb.
 
@@ -46,5 +46,5 @@ Verified that the home_sales temporary table was uncached using PySpark.
 13. Uploaded to GitHub
 The Home_Sales.ipynb file was downloaded and uploaded to the "Home_Sales" GitHub repository.
 
-## Conclusion
+### Conclusion
 The tasks outlined above were successfully completed, involving data manipulation, query execution, performance evaluation, and documentation.
